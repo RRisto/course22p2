@@ -22,3 +22,6 @@ This installs the `miniai` library which we're creating in this course.
 
 https://www.fast.ai/posts/part2-2023.html
 
+
+## my updates are on notebooks 16F, 16G considering Neural Cellular Automatons and pattern generation/style transfer
+
